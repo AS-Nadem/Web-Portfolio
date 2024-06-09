@@ -3,4 +3,4 @@
 
 | Contributor                        | Scope of contribution                                                               | Reference/Contact              |
 |------------------------------------|-------------------------------------------------------------------------------------|--------------------------------|
-| Chatgpt                            | Used Chatgpt to figure out how to add hover animations                                      | `index.html` `
+| Chatgpt                            | Used Chatgpt to figure out how to add hover animations                                      | `styles.css` `
